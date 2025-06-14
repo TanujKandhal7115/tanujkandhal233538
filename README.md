@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Tanuj Kandhal, an Enthuistic 1st year student currently prusuing computer science.
+- 👋 Hi there, I’m Tanuj Kandhal, an Student currently prusuing computer science.
 
 -I'm familiar with tech like C, HTML, CSS, Javascript and currently eagor to pursue further depth of knowledge through different platforms.
 
